@@ -4,7 +4,7 @@
 
 Windows Security is a built-in Application by Microsoft on Windows 10 and Windows 11. Alongside the user-friendly interface, This application provides the basic common security for Windows 10 and Windows 11. So, to put it simply, Windows Security has a modern user interface and provides tools for the security of your computer. For example, this program includes Windows Defender Antivirus, which protects your computer and information against computer viruses. In this article, you will learn How to use Windows Security on Windows 11.
 
-##How to navigate Windows Security
+## How to navigate Windows Security
 
 * Windows Security is a straightforward application. You can open it from the Start menu or double-clicking the shield icon from the notification area in the taskbar.
 
